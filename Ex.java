@@ -1,3 +1,4 @@
+//Ecxample of wrapper class...
 package wrapperclass;
 
 public class Ex {
