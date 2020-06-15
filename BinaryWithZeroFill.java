@@ -1,3 +1,10 @@
+/**Write a Java program that reads an integer number (between 1 and 255) from the user and prints the binary representation of the number. The answer should be printed as a String.
+
+Note: The output displayed should contain 8 digits and should be padded with leading 0s(zeros), in case the returned String contains less than 8 characters.
+
+For example, if the user enters the value 16, then the output should be
+ 00010000
+ **/
 package wrapperclass;
 import java.util.Scanner;
 
